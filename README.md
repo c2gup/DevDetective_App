@@ -40,5 +40,5 @@ The GitHub Profile Viewer is a web application designed to fetch and display Git
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/github-profile-viewer.git
+   git clone https://github.com/c2gup/DevDetective_App.git
 
