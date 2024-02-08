@@ -28,6 +28,7 @@
     }
     
     .container {
+          padding:5px;
       width: 327px;
       position: absolute;
       top: 50%;
